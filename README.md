@@ -1,3 +1,5 @@
+![image](https://github.com/rempakos/Kaggle-MonsterClassification/assets/44623491/5b4efbe2-4f75-4750-bd04-47e241eb3bfc)
+
 # Kaggle-MonsterClassification Repository for "Ghouls, Goblins, and Ghosts... Boo!" competition.
 
 Welcome to my repository for the Kaggle competition "Ghouls, Goblins, and Ghosts... Boo!". This repository contains the code and analysis for the competition, aiming to predict the type of creature (ghost, ghoul, or goblin) based on provided features.
@@ -24,6 +26,8 @@ To utilize the code and resources in this repository, follow the instructions be
 3. Review the code and analysis files to understand the implementation details and explore different approaches used.
 
 4. Use the code and resources as a reference for your own implementation, adapting and modifying them to suit your needs.
+
+   Note: A boxplot, a colored countplot and a pairplot are used to evaluate performance further.
 
 ## License
 The code in this repository is licensed under the appropriate license. Please refer to the repository's license file for more information.
