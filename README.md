@@ -4,6 +4,8 @@
 
 Welcome to my repository for the Kaggle competition "Ghouls, Goblins, and Ghosts... Boo!". This repository contains the code and analysis for the competition, aiming to predict the type of creature (ghost, ghoul, or goblin) based on provided features.
 
+The competition is closed but archived and can be found in this link -> https://www.kaggle.com/competitions/ghouls-goblins-and-ghosts-boo/data
+
 ## Competition Description
 The "Ghouls, Goblins, and Ghosts... Boo!" Kaggle competition challenges participants to develop a machine learning model that accurately classifies creatures into one of three categories: ghost, ghoul, or goblin. The competition provides a labeled training dataset and an unlabeled test dataset for evaluation.
 
